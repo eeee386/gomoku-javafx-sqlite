@@ -1,0 +1,17 @@
+/home/attilasedon/IdeaProjects/Gomoku/src/main/java/model/DAO/ConfigHelper.java
+/home/attilasedon/IdeaProjects/Gomoku/src/main/java/model/exception/IllegalMoveException.java
+/home/attilasedon/IdeaProjects/Gomoku/src/main/java/model/exception/BoardSizeException.java
+/home/attilasedon/IdeaProjects/Gomoku/src/main/java/model/exception/PlayerException.java
+/home/attilasedon/IdeaProjects/Gomoku/src/main/java/hu/alkfejl/BoardController.java
+/home/attilasedon/IdeaProjects/Gomoku/src/main/java/module-info.java
+/home/attilasedon/IdeaProjects/Gomoku/src/main/java/model/DAO/GameStateDAO.java
+/home/attilasedon/IdeaProjects/Gomoku/src/main/java/model/Player.java
+/home/attilasedon/IdeaProjects/Gomoku/src/main/java/model/PlayerSign.java
+/home/attilasedon/IdeaProjects/Gomoku/src/main/java/model/Board.java
+/home/attilasedon/IdeaProjects/Gomoku/src/main/java/hu/alkfejl/ChooseController.java
+/home/attilasedon/IdeaProjects/Gomoku/src/main/java/hu/alkfejl/App.java
+/home/attilasedon/IdeaProjects/Gomoku/src/main/java/model/Game.java
+/home/attilasedon/IdeaProjects/Gomoku/src/main/java/model/AIPlayer.java
+/home/attilasedon/IdeaProjects/Gomoku/src/main/java/model/exception/DatabaseException.java
+/home/attilasedon/IdeaProjects/Gomoku/src/main/java/model/DAO/GameState.java
+/home/attilasedon/IdeaProjects/Gomoku/src/main/java/model/DAO/DAOInterface.java
